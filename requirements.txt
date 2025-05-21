@@ -1,9 +1,5 @@
-fastapi
-uvicorn
-sqlalchemy
-psycopg2-binary
-alembic
-pydantic
-python-jose
-passlib[bcrypt]
-pytest
+fastapi~=0.115.12
+sqlalchemy~=2.0.41
+passlib~=1.7.4
+python-jose~=3.4.0
+pydantic~=2.10.6
